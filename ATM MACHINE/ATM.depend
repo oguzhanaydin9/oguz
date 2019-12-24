@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577182545 source:c:\users\o–uzhan\desktop\sdasda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1577182545 source:c:\users\o–uzhan\desktop\atm machine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
